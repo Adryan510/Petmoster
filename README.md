@@ -35,3 +35,9 @@ Adicione aqui o link do site quando publicar pelo GitHub Pages.
 
 Este projeto me ajudou a praticar a organização de páginas HTML,
 a criação de estilos CSS e a construção de um site institucional.
+
+## 🌐 Site publicado
+
+Acesse o projeto online pelo GitHub Pages:
+
+[Visualizar Petmoster](https://adryan510.github.io/Petmoster/)
